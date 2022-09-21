@@ -1,4 +1,4 @@
-# 6th Workshop on Formal Reasoning about Causation, Responsibility, & Explanations in Science & Technology - CREST 2023
+# CREST 2023 - 6th Workshop on Formal Reasoning about Causation, Responsibility, & Explanations in Science & Technology
 
 ## About
 The CREST workshop series center around the development of formal approaches to reasoning about causation in software and systems. The topics of formally identifying the cause(s) of specific events - usually some form of failures -, explaining why they occurred, and predicting certain outcomes are increasing in the focus of several, disjoint communities.
