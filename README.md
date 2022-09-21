@@ -7,14 +7,12 @@ The main objective of CREST is to bring together researchers and practitioners f
 
 CREST 2023 is a satellite event of ETAPS 2023, organised in Paris, on 22-27 April.
 
-## <a href="https://crest-etaps.github.io/topics">Call for Papers</a> 
-
-## <a href="https://crest-etaps.github.io/topics">Topics</a>
-
 ## Important Dates
 Sunday, January 9  - Abstract submission <br />
 Sunday, January 16 - Paper submission <br />
 Sunday, February 16 - Notification <br />
+
+## <a href="https://crest-etaps.github.io/topics">Call for Papers</a> 
 
 ## <a href="https://crest-etaps.github.io/committees">Committees</a>
 
