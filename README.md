@@ -12,7 +12,6 @@ Sunday, January 9  - Abstract <br />
 Sunday, January 16 - Paper submission <br />
 Sunday, February 16 - Notification <br />
 
-## Topics
-Topics of interest include, but are not limited to (click to see):
+## <a href="https://www.w3schools.com">Topics</a>
 
 
