@@ -1,6 +1,6 @@
 ## Program Chairs
 <ul>
-<li> Georgiana Caltais, Universit of Twente, The Netherlands </li> 
+<li> Georgiana Caltais, University of Twente, The Netherlands </li> 
 <li> tba </li>
 </ul>
 
