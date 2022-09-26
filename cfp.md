@@ -17,6 +17,7 @@ The goals of this workshop are to bring together and foster exchange between res
 <li>causality in accident analysis, safety cases and certification</li>
 <li>fault ascription and blaming</li>
 <li>accountability, explainability of algorithms and systems</li>
+<li>causal models inference, cause mining</li>
 <li>applications, implementations, tools and case studies of the above</li>
 </ul>
 
