@@ -4,7 +4,7 @@
 <li> tba </li>
 </ul>
 
-## Steering Comittee
+## Steering Committee
 <!--
 <li> Gregor Goessler, INRIA, France </li>
 <li> Stefan Leue, University of Konstanz, Germany </li>
