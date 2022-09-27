@@ -1,7 +1,7 @@
 ## Program Chairs
 <ul>
 <li> Georgiana Caltais, University of Twente, The Netherlands </li> 
-<li> tba </li>
+<li> Ebru Aydin Gol, Middle East Technical University, Turkey </li>
 </ul>
 
 ## Steering Committee
