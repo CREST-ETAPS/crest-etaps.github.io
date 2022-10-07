@@ -9,7 +9,7 @@
 <li> Hana Chockler, King's College London, UK </li>
 <li> Gregor Goessler, INRIA, France </li>
 <li> Stefan Leue, University of Konstanz, Germany </li>
-<li> Oleg Sokolsky, University of Pennsylvania, US <\li>
+<li> Oleg Sokolsky, University of Pennsylvania, US </li>
 </ul>
 
 ## Program Committee
