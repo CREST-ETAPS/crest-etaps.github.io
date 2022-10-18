@@ -14,8 +14,6 @@
 
 ## Program Committee
 <ul>
-  <li> Georgiana Caltais, University of Twente, The Netherlands </li>
-  <li> Ebru Aydin Gol, Middle East Technical University, Turkey </li>
   <li> Thomas Ferrère, Imagination Technologies, UK </li>
   <li> Norine Coenen, CISPA Helmholtz Center for Information Security, Germany </li>
   <li> Christel Baier, TU Dresden, Germany </li>
