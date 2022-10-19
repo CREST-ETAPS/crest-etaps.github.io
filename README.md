@@ -7,7 +7,7 @@ The main objective of CREST is to bring together researchers and practitioners f
 
 CREST 2023 is a satellite event of ETAPS 2023, organised in Paris, on 22-27 April.
 
-Previous Editions: CREST
+Previous editions: CREST
 <a href="https://crest2016.inria.fr">2016</a>,
 <a href="https://kim28.wwwdns.kim.uni-konstanz.de/crest2017">2017</a>, 
 <a href="https://www.react.uni-saarland.de/crest2018">2018</a>, 
