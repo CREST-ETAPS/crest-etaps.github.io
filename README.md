@@ -5,7 +5,7 @@ The CREST workshop series center around the development of formal approaches to 
 
 The main objective of CREST is to bring together researchers and practitioners from industry and academia in order to enable discussions on how causal inference and causal prediction is performed. A further objective is to link to the foundations of causal reasoning in the philosophy of sciences and to causal reasoning performed in computer science and engineering.
 
-CREST 2023 is a satellite event of ETAPS 2023, organised in Paris, on 22-27 April.
+CREST 2023 will take place on 23 April, as a satellite event of ETAPS 2023, organised in Paris, on 22-27 April. 
 
 Previous editions: CREST
 <a href="https://crest2016.inria.fr">2016</a>,
