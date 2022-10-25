@@ -20,8 +20,6 @@ Sunday, January 9  - Abstract submission <br />
 Sunday, January 16 - Paper submission <br />
 Sunday, February 16 - Notification <br />
 
-## <a href="https://crest-etaps.github.io/speakers">Speakers</a> 
-
 ## <a href="https://crest-etaps.github.io/cfp">Call for Papers</a> 
 
 ## <a href="https://crest-etaps.github.io/committees">Committees</a>
