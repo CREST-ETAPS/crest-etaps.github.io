@@ -20,7 +20,8 @@ Sunday, January 9  - Abstract submission <br />
 Sunday, January 16 - Paper submission <br />
 Sunday, February 16 - Notification <br />
 
-## <a href="https://crest-etaps.github.io/ispeakers">Speakers</a> 
+## Keynote
+Joseph Halpern, Cornell University, US
 
 ## <a href="https://crest-etaps.github.io/cfp">Call for Papers</a> 
 
