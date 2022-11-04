@@ -25,3 +25,7 @@ counterintuitive or inappropriate answers, and discuss alternatives,
 drawing on work from the decision-theory literature.<br>
 
 This is joint work with <a href="https://sanderbeckers.github.io/website/about/">Sander Beckers</a> and <a href="https://www.hanachockler.com">Hana Chockler</a>.
+
+## Invited Talks
+<a href="https://www.hanachockler.com"><b>Hana Chockler</b></a>, King's College London, UK  <br><br>
+<b>Title, Abstract:</b> TBA <br>
