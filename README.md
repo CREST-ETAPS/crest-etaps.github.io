@@ -10,9 +10,8 @@ CREST 2023 will take place on 23 April, as a satellite event of ETAPS 2023.
 Previous editions: CREST
 <a href="https://crest2016.inria.fr">2016</a>,
 <a href="https://kim28.wwwdns.kim.uni-konstanz.de/crest2017">2017</a>, 
-<a href="https://www.react.uni-saarland.de/crest2018">2018</a>, 
-<a href="https://conf.researchr.org/track/etaps-2019/crest-2019-papers">2019</a> and
-<a href="https://sites.google.com/view/crest2020/home">2020</a>.
+<a href="https://www.react.uni-saarland.de/crest2018">2018</a> and
+<a href="https://conf.researchr.org/track/etaps-2019/crest-2019-papers">2019</a>.
 
 
 ## Important Dates
