@@ -29,5 +29,6 @@ This is joint work with <a href="https://sanderbeckers.github.io/website/about/"
 ## Invited Talks
 <a href="https://www.bell-labs.com/about/researcher-profiles/armen-aghasaryan/#gref"><b>Armen Aghasaryan</b></a>, Nokia Bell Labs, France<br><br>
 <b>Title, Abstract:</b> TBA <br><br>
+
 <a href="https://www.hanachockler.com"><b>Hana Chockler</b></a>, King's College London, UK  <br><br>
 <b>Title, Abstract:</b> TBA <br>
