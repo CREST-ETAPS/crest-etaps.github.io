@@ -35,4 +35,5 @@ Identifying the cause-and-effect relationships from data is a harder problem tha
  
 
 <a href="https://www.hanachockler.com"><b>Hana Chockler</b></a>, King's College London, UK  <br><br>
-<b>Title, Abstract:</b> TBA <br>
+<b>Title:</b> Causality and learning in software engineering <br>
+<b>Abstract:</b> In this talk I will look at the connections between causality and learning on one side, and software engineering on the other side. I will introduce the relevant concepts and discuss how causality and learning can help to improve the quality of systems and reduce the amount of human effort in designing and verifying systems. I will (briefly) introduce the theory of actual causality as defined by Halpern and Pearl. This theory turns out to be extremely useful in various areas of computer science due to a good match between the results it produces and our intuition. I will illustrate the definitions by examples from formal verification. I will also argue that active learning can be viewed as a type of causal discovery. 
