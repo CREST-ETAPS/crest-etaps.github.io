@@ -15,10 +15,10 @@ Previous editions: CREST
 
 
 ## Important Dates
-Sunday, January 9  - Abstract submission <br />
-Sunday, January 16 - Paper submission <br />
-Sunday, February 16 - Notification <br />
-Sunday, April 23 - Workshop <br />
+January 9  - Abstract submission <br />
+January 16 - Paper submission <br />
+February 16 - Notification <br />
+April 23 - Workshop <br />
 
 ## <a href="https://crest-etaps.github.io/speakers">Invited Speakers</a> 
 
