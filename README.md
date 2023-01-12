@@ -15,7 +15,7 @@ Previous editions: CREST
 
 
 ## Important Dates
-January 9  - Abstract submission <br />
+January 16  - Abstract submission (NEW!) <br />
 January 16 - Paper submission <br />
 February 16 - Notification <br />
 April 23 - Workshop <br />
