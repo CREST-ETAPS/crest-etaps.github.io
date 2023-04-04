@@ -19,7 +19,7 @@ January 31  - Paper submission (NEW!) <br />
 February 28 - Notification (NEW!) <br />
 April 23 - Workshop <br />
 
-## <a href="https://crest-etaps.github.io/speakers">Invited Speakers</a> 
+## <a href="https://crest-etaps.github.io/speakers">Invited</a> 
 
 ## <a href="https://crest-etaps.github.io/programme">Programme</a> 
 
