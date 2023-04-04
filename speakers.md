@@ -37,3 +37,9 @@ Identifying the cause-and-effect relationships from data is a harder problem tha
 <a href="https://www.hanachockler.com"><b>Hana Chockler</b></a>, King's College London, UK  <br><br>
 <b>Title:</b> Causality and learning in software engineering <br>
 <b>Abstract:</b> In this talk I will look at the connections between causality and learning on one side, and software engineering on the other side. I will introduce the relevant concepts and discuss how causality and learning can help to improve the quality of systems and reduce the amount of human effort in designing and verifying systems. I will (briefly) introduce the theory of actual causality as defined by Halpern and Pearl. This theory turns out to be extremely useful in various areas of computer science due to a good match between the results it produces and our intuition. I will illustrate the definitions by examples from formal verification. I will also argue that active learning can be viewed as a type of causal discovery. 
+
+
+## Invited Tutorial
+<a href="https://kclpure.kcl.ac.uk/portal/hugo.araujo.html"><b>Hugo Araujo</b></a>, King's College London, UK  <br><br>
+<b>Title:</b> Kaspar Causally Explains: Causal Explanation in an Assistive Robot for Children with Autism Spectrum Disorder <br>
+<b>Abstract:</b> The Kaspar robot has been used with great success to work as an education and social mediator with children with autism spectrum disorder. Enabling the robot to automatically generate causal explanations is key to enrich the interaction scenarios for children and promote trust in the robot. We present a theory of causal explanation to be embedded in Kaspar, from which, we build a causal model and an analysis method to calculate causal explanations. In this tutorial, we present the implementation of our method in Java (with inputs provided by a human operator), and videos of the robot in operation. 
