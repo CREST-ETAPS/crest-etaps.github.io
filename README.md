@@ -21,6 +21,8 @@ April 23 - Workshop <br />
 
 ## <a href="https://crest-etaps.github.io/speakers">Invited Speakers</a> 
 
+## <a href="https://crest-etaps.github.io/programme">Programme</a> 
+
 ## <a href="https://crest-etaps.github.io/cfp">Call for Papers</a> 
 
 ## <a href="https://crest-etaps.github.io/committees">Committees</a>
