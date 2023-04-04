@@ -13,7 +13,7 @@
 <hr> <h3> Lunch (IHP, building Perrin) </h3> <hr>
 
 <h3> 15:00-16:00 Session 3 (grisvard) </h3>
-<b>Invited tutorial:</b> Hugo Araujo, <i>TBA</i>
+<b>Invited tutorial:</b> Hugo Araujo, <i>Kaspar Causally Explains: Causal Explanation in an Assistive Robot for Children with Autism Spectrum Disorder</i>
 
 <hr> <h3> Coffee break (IHP, building Perrin) </h3> <hr>
 
