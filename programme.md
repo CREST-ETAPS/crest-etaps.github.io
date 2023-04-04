@@ -1,4 +1,4 @@
-<h3> 08:00-09:00 Registration (IHP entrance) </h3><hr>
+<h3> 08:00-09:00 Registration (IHP, entrance) </h3><hr>
 
 <h3> 09:00-10:00 Session 1 (grisvard) </h3>
 <b>Invited talk:</b> Armen Aghasaryan, <i>Challenges and Opportunities for Causal Modeling of (Telco) Networks</i>
